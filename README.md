@@ -1,1 +1,1 @@
- (Mic Check 1 2)
+ Mic Check 1 2
