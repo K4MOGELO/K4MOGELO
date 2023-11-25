@@ -4,4 +4,4 @@ Hey there! ABOUT ME? i did little bit of python,little bit of javascript,little 
 
 **BUTTTT,** very good with Vim motions,always pushing to undertand this Linux thing and **I LOVE C❤️** 
 
-subcribe to @ThePrimeagen😉
+subscribe to @ThePrimeagen😉
