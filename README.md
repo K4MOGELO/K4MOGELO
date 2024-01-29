@@ -4,7 +4,6 @@ Hey there! ABOUT ME? i did little bit of python,little bit of javascript,little 
 
 **BUTTTT,** very good with Vim motions,always pushing to undertand this Linux thing and **I LOVE C❤️** 
 
-
-
 <h4 align="left">Contributions</h4>
-![](https://github-readme-streak-stats.herokuapp.com/?user=K4MOGELO&theme=react&hide_border=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=K4MOGELO&theme=react&hide_border=false) 
