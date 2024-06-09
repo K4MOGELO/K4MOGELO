@@ -1,6 +1,6 @@
 # KAMOGELO SITHOLE
 
-![Darth Vader](/images/darth-vader.jpg)
+![Darth Vader](darth-vader.jpg)
 
 ## About Me
 
