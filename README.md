@@ -10,13 +10,14 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=K4MOGELO&theme=react&hide_border=false)
 
-## Programming Languages
+## Languages
 
 - **JavaScript/Typescript**: Advanced
 - **Python**: Intermediate
 - **C/C++**: Intermediate
 - **HTML/CSS**: Advanced
 - **GO**: Beginner
+- **JAVA**: idk,Intermediate-ish
 
 ## Get in Touch
 
