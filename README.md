@@ -21,15 +21,12 @@
 
 
 
-# $${\color{red}Languages}$$
+# $${\color{red}Programming OLanguages}$$
 - **JavaScript/Typescript**: Advanced
 - **Python**: Intermediate
 - **C/C++**: Intermediate
-- **HTML/CSS**: Advanced
 - **GO**: Beginner
 - **JAVA**: idk,Intermediate-ish
-
-
 
 # $${\color{red}Get \space in \space Touch}$$
 
