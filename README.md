@@ -21,7 +21,7 @@
 
 
 
-# $${\color{red}Programming OLanguages}$$
+# $${\color{red}Programming \space Languages}$$
 - **JavaScript/Typescript**: Advanced
 - **Python**: Intermediate
 - **C/C++**: Intermediate
